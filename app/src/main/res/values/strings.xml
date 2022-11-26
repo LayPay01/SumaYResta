@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SumaYResta</string>
+    <string name="Title">Suma y Resta</string>
+    <string name="num1">1er Dato</string>
+    <string name="num2">2do Dato</string>
+    <string name="result">El resultado se mostrará aquí</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="Data">Leonardo Hernández Morales - 22/11/2022</string>
+</resources>
